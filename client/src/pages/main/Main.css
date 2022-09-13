@@ -1,0 +1,76 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #313131;
+    color: white;
+}
+
+.ma {
+    text-align: center;
+}
+
+.info1 {
+    font-size: 30px;
+}
+
+.info2 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.page1 {
+    padding: 380px;
+    margin-bottom: 550px;
+}
+
+.page2 {
+    padding: 400px;
+    margin-bottom: 800px;
+}
+
+.work {
+    float: right;
+    margin-right: 200px;
+    border-radius: 20px;
+}
+
+.footer {
+    margin-top: 2400px;
+}
+
+.info1-2, .info2-2, .work {
+    display: inline-block;
+}
+
+.info1-2 {
+    font-size: 30px;
+}
+.info2-2 {
+    font-size: 20px;
+}
+
+.page3 {
+    padding: 450px;
+    text-align: center;
+}
+.info1-3 {
+    font-size: 30px;
+}
+
+.project {
+    display: inline-block;
+    margin: 30px;
+    text-align: center;
+    width: 280px;
+    height: 200px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, .3);
+}
+.project img {
+    border-radius: 8px;
+    padding-top: 20px;
+    object-fit: cover;
+    width: 200px;
+    height: 120px;
+}
